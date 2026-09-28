@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-genetic-algorithm-crossover-mutation-skill
+name: genpark-genetic-algorithm-crossover-mutation-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
